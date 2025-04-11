@@ -1,6 +1,6 @@
 	AREA pgr2,CODE,READONLY
 ENTRY
-	MOV r0, #0
+    MOV r0, #0
     MOV r1, #1
     MOV r2, #10
 loop
