@@ -1,4 +1,4 @@
-      AREA Q1_AREA, CODE, READONLY
+      AREA prg1, CODE, READONLY
 ENTRY
 
         MOV r1, #0
